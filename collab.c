@@ -72,6 +72,11 @@ void jgongo2_pkoby2_kseki3() {
            "You can make multiple commmits before pushing to the repository.\n");
 }
 
+void esyed5_aak20(){
+  printf("Emaad Syed and Atilla AK\n");
+  printf("We learned that Github is a great collaborative tool that helps us become more effecient coders.\n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -83,6 +88,6 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
-
+  esyed5_aak20();
   return 0;
 }
